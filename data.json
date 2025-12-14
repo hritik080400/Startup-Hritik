@@ -1,0 +1,165 @@
+{
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Custom websites built with modern technologies like React, Angular, and .NET Core.",
+      "image": "img/blog-1.jpg",
+      "link": "#contact"
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Native and Cross-platform mobile apps using Flutter, Android, and iOS.",
+      "image": "img/blog-2.jpg",
+      "link": "#contact"
+    },
+    {
+      "title": "Backend & API",
+      "description": "Robust backend solutions, RESTful APIs, and database management.",
+      "image": "img/blog-3.jpg",
+      "link": "#contact"
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "User-centric design creating engaging and intuitive digital experiences.",
+      "image": "img/blog-1.jpg",
+      "link": "#contact"
+    },
+    {
+      "title": "Maintenance & Support",
+      "description": "Reliable post-delivery support and maintenance for your applications.",
+      "image": "img/blog-2.jpg",
+      "link": "#contact"
+    }
+  ],
+  "team": [
+    {
+      "name": "Hritik Bhoite",
+      "role": "Software Engineer / Founder",
+      "image": "img/team-1.jpg",
+      "social": [
+        "fab fa-linkedin-in"
+      ]
+    },
+    {
+      "name": "Aniket Bhosale",
+      "role": "Full-Stack Engineer /CO-Founder",
+      "image": "img/team-2.jpg",
+      "social": [
+        "fab fa-linkedin-in"
+      ]
+    },
+    {
+      "name": "Akash Bhujbal",
+      "role": "Backend Engineer /CO-Founder",
+      "image": "img/team-3.jpg",
+      "social": [
+        "fab fa-linkedin-in"
+      ]
+    },
+    {
+      "name": "Madhav Godhale",
+      "role": "Mobile App Engineer /CO-Founder",
+      "image": "img/team-1.jpg",
+      "social": [
+        "fab fa-linkedin-in"
+      ]
+    },
+    {
+      "name": "Pranav & Team",
+      "role": "Core Engineering Team /CO-Founder",
+      "image": "img/team-2.jpg",
+      "social": [
+        "fab fa-linkedin-in"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Hotel Billing System",
+      "category": "Web App",
+      "description": "A comprehensive billing and management solution for hotels built with Angular and .NET Core.",
+      "image": "img/blog-1.jpg"
+    },
+    {
+      "title": "Enterprise ERP Module",
+      "category": "ERP System",
+      "description": "Scalable ERP module for business process automation developed using ASP.NET MVC.",
+      "image": "img/blog-2.jpg"
+    },
+    {
+      "title": "E-Commerce App",
+      "category": "Mobile App",
+      "description": "Cross-platform mobile application for online shopping with seamless payment integration.",
+      "image": "img/blog-3.jpg"
+    }
+  ],
+  "features": [
+    {
+      "icon": "fa fa-code",
+      "title": "Clean & Secure Code",
+      "description": "We prioritize maintainable, secure, and scalable code for long-term success."
+    },
+    {
+      "icon": "fa fa-users-cog",
+      "title": "Engineer-Driven Team",
+      "description": "Founded by engineers who understand technical excellence and product quality."
+    },
+    {
+      "icon": "fa fa-rocket",
+      "title": "Agile Delivery",
+      "description": "Fast iterations and regular updates to keep your project on track and adaptable."
+    },
+    {
+      "icon": "fa fa-wallet",
+      "title": "Affordable for Startups",
+      "description": "Cost-effective solutions tailored for early-stage startups and businesses."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rohan Deshmukh",
+      "role": "CEO, TechStart",
+      "image": "img/testimonial-1.jpg",
+      "text": "Anivex Technologies delivered our project on time with excellent quality. Their team is highly professional and technically sound."
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "Founder, E-Shop",
+      "image": "img/testimonial-2.jpg",
+      "text": "Great experience working with Hritik and his team. They understood our requirements perfectly and delivered a scalable solution."
+    },
+    {
+      "name": "Amit Patil",
+      "role": "Director, EduTech",
+      "image": "img/testimonial-3.jpg",
+      "text": "The mobile app developed by Anivex is smooth and user-friendly. Highly recommend them for mobile app development."
+    }
+  ],
+  "topbar": {
+    "address": "Pune, India",
+    "phone": "+91 9309946463",
+    "email": "contact@anivex.com",
+    "social": [
+      {
+        "icon": "fab fa-twitter",
+        "link": ""
+      },
+      {
+        "icon": "fab fa-facebook-f",
+        "link": ""
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "link": ""
+      },
+      {
+        "icon": "fab fa-instagram",
+        "link": ""
+      },
+      {
+        "icon": "fab fa-youtube",
+        "link": ""
+      }
+    ]
+  }
+}
